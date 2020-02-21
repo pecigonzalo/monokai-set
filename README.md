@@ -16,5 +16,5 @@ Open Windows Terminal settings and add the content of `windows/terminal/monokai-
 
 ## Todo
 - [ ] Add VSCode
-- [ ] Add Konsole
+- [x] Add Konsole
 - [ ] Add KDE
